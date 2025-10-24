@@ -2,6 +2,11 @@
 My first repository
 # My Favorite Movie / Series 
 ## Top Gun Maverick
+
+
+![Top_Gun_Maverick_Poster](https://github.com/user-attachments/assets/13b497ab-bb49-4ac8-9ff3-eeb7b8fccf00)
+
+
 **In this movie it visualizes how modern fighter/strike aircrafts do "sorties" in which the movie highligts them quite well**
 > Aircraft Used in the movie
 
