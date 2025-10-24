@@ -24,6 +24,7 @@ My first repository
 
 - SU 57
 [SU 57](https://en.wikipedia.org/wiki/Sukhoi_Su-57)
+![Sukhoi_Design_Bureau,_054,_Sukhoi_T-50_(Su-57_prototype)_(49581303977)](https://github.com/user-attachments/assets/c07701af-ec56-44f8-96e6-71d5a6f3348a)
 
 ```
 {
